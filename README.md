@@ -30,11 +30,11 @@
 
 1. Start the Flask server:
 
-  -python app.py
+   -python app.py
 
 2. Open a web browser and go to:
 
-  -http://127.0.0.1:5000/
+   -http://127.0.0.1:5000/
 
 3. Enter the required input values and click Predict Price to get the predicted house price.
 
