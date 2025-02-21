@@ -16,7 +16,7 @@
 
 2. Install required dependencies:
 
-   -pip install flask numpy pandas scikit-learn
+   -pip install -r requirements.txt
 
 3. Ensure that you have the dataset (House_Price.json) inside the Data/ folder.
 
